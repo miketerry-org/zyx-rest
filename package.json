@@ -1,6 +1,6 @@
 {
   "name": "zyx-rest",
-  "version": "0.20.4",
+  "version": "0.20.5",
   "description": "initializes express Rest API",
   "main": "index.js",
   "scripts": {
@@ -26,13 +26,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "express-rate-limit": "^7.5.1",
+    "express-rate-limit": "^8.0.1",
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
-    "morgan": "^1.10.0",
-    "zyx-base": "^0.20.6",
-    "zyx-env": "^0.21.3",
+    "morgan": "^1.10.1",
+    "zyx-base": "^0.20.18",
+    "zyx-env": "^0.21.4",
     "zyx-schema": "^0.20.5",
-    "zyx-system": "^0.20.3"
+    "zyx-system": "^0.20.4"
   }
 }
